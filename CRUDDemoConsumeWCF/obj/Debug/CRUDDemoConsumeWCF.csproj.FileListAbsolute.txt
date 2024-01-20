@@ -1,0 +1,4 @@
+C:\Users\91865\Desktop\WCF_CRUD\CRUDDemoConsumeWCF\CRUDDemoConsumeWCF\bin\CRUDDemoConsumeWCF.dll
+C:\Users\91865\Desktop\WCF_CRUD\CRUDDemoConsumeWCF\CRUDDemoConsumeWCF\bin\CRUDDemoConsumeWCF.pdb
+C:\Users\91865\Desktop\WCF_CRUD\CRUDDemoConsumeWCF\CRUDDemoConsumeWCF\obj\Debug\CRUDDemoConsumeWCF.dll
+C:\Users\91865\Desktop\WCF_CRUD\CRUDDemoConsumeWCF\CRUDDemoConsumeWCF\obj\Debug\CRUDDemoConsumeWCF.pdb
